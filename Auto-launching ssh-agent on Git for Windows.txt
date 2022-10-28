@@ -6,7 +6,7 @@ My file was located in "C:\Users\mitch"
 
 ## 2 
 
-Open text edittor and past the following:
+Open text editor and past the following:
 
 env=~/.ssh/agent.env
 

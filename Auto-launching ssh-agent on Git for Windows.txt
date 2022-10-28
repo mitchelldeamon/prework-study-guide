@@ -36,7 +36,7 @@ Navigate to > File > Save As > ".bashrc" to same file path where ".gitconfig" is
 
 ## 4
 
-Open new finder window and locat your ssh key path and copy by highlighting 
+Open new finder window and Locate your ssh key path and copy by highlighting 
 and right clicking id_ed25519 File (not the pub) and "copy as path"
 My file path was "C:\Users\mitch\.ssh\id_ed25519"
 
